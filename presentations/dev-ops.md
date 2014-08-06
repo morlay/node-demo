@@ -6,6 +6,8 @@ controls: true
 
 --
 
+<style> img{ display:block; margin:0 auto; } </style>
+
 # Dev Ops by Node
 
 ## simpler and faster our dev ops
@@ -53,7 +55,7 @@ A user interface.
   - [fork](http://nodejs.org/api/child_process.html#child_process_child_process_fork_modulepath_args_options)
 * [shelljs](https://www.npmjs.org/package/shelljs)
 
----
+--
 
 ### File System && Path
 
@@ -64,3 +66,7 @@ A user interface.
 * [path (core)](http://nodejs.org/api/path.html)
   - `__dirname`
   - `process.cwd()`
+
+--
+
+![dev-ops](images/dev-ops.svg)
