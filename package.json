@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "clean": "rm *-cleaver.html",
-    "dev-ops": "cleaver watch ./presentations/dev-ops.md"
+    "dev-ops": "cleaver watch ./presentations/dev-ops.md",
+    "gulp": "cleaver watch ./presentations/gulp.md"
   },
   "author": "",
   "license": "ISC",
