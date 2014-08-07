@@ -69,4 +69,18 @@ A user interface.
 
 --
 
+### Template Engine
+
+* [consolidate](https://www.npmjs.org/package/consolidate), all in one
+
+
+    "xxxxxxxxxxxxxxxxxxxx {{ data }} xxxxxxxxxxxxxxxxx"
+
+    { data:'I am the data placeholder'}
+
+    "xxxxxxxxxxxxxxxxxxxx I am the data placeholder xxxxxxxxxxxxxxxxx"
+
+
+--
+
 ![dev-ops](images/dev-ops.svg)
